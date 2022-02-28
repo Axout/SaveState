@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">SaveState</string>
+	<string name="save_state">This is Save Instance State Activity</string>
+</resources>
